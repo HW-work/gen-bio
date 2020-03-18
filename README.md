@@ -1,7 +1,7 @@
 # gen-bio
 
 ## Tracking
-  * Mar 18 - Read "Tutorial on Variational Autoencoders" 
+  * Mar 18 - Read "Tutorial on Variational Autoencoders" [(Takeaways)](doc/3-18.txt)
 
 ## References
   
