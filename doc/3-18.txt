@@ -1,2 +1,0 @@
-Takeaways from VAE tutorial
-1. 
